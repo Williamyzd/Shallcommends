@@ -12,7 +12,7 @@
 将xcodeArchive文件夹放在你喜欢的位置(主要用来存放打包过程中生成的文件以及打包的配置文件)<br/>
 #ExportOptions其中的文件主要是打包的配置文件,不用动<br/>
 #shallscripts存放的脚本文件,正常情况下使用TRSAdHocScripts.command即可<br/>
-3.使用<br/>
+3.配置与使用<br/>
 ########################配置###################################<br/>
 将TRSAdHocScripts.command/TRSEnterpriseScripts.command放置到工程根路径(同project文件平级)<br/>
 鼠标右键打开方式选择编译器打开(sbline/xocde)修改以下参数<br/>
