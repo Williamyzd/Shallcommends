@@ -28,7 +28,7 @@ echo "切换路径到:$project_path"
 cd $project_path
 
 #获取系统时间,用来命名生成的文件
-current_date=$(date "+%Y-%m-%d %H-%M-%S")
+current_date=$(date "+%Y-%m-%d %H-%M-%S-%N")
 echo "当前时间:$current_date"
 find 
 
