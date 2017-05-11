@@ -1,5 +1,5 @@
 # Shallcommends
-打包用的一些命令行<br/>
+iOS自动打包用的一些命令行<br/>
 #使用xcodebuild打包,导出ipa<br/>
 #使用fir.im命令行上传至对应账号<br/>
 
