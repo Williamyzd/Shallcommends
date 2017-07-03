@@ -2,7 +2,7 @@
 iOS自动打包用的一些命令行<br/>
 #使用xcodebuild打包,导出ipa<br/>
 #使用fir.im命令行上传至对应账号<br/>
-
+#测试来一套
 命令行使用说明<br/>
 1.前提<br/>
 #安装xcode命令行(检测:终端执行xcodebuild命令)<br/>
